@@ -35,7 +35,7 @@ _(Klik badge di atas untuk menonton demo)_
 1. **Clone repositori ini**
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-recognition.git
+git clone https://github.com/marcellpinem/hand-gesture-recognition.git
 cd hand-gesture-recognition
 ```
 

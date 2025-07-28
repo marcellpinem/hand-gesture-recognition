@@ -6,7 +6,7 @@ Project Python sederhana untuk mengenali berbagai gesture tangan secara real-tim
 
 ## 🎥 DEMO
 
-[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtube.com.your-demo-link)
+[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/CWvnuTp5epg)
 
 _(Klik badge di atas untuk menonton demo)_
 
